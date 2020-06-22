@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#481260",
+			"titleBar.activeBackground": "#651987",
+			"titleBar.activeForeground": "#FCF8FE"
+		}
+	}
+}
